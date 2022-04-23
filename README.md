@@ -16,8 +16,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 * What are some main areas of concern to prioritise and tackle in order to become the country with the highest life expectancy globally?
 
 # 💪 Motivation 
-Our team's main objective was to figure out the main factors that Singapore should zoom in and focus on in order to increase Life Expectancy by a larger rate again.
-This is because the rate at which Singapore's Life Expectancy is increasing in the past decade has slowed significantly. To do this, we will make use of a few Machine Learning models first, and identify which Model is the best at predicting Life Expectancy. From there, we will 
+* The rate at which Singapore's Life Expectancy is increasing in the past decade has slowed significantly. 
+* [Singapore is currently the 5th ranked country globally with a life expectancy of 84.07 years](https://www.worldometers.info/demographics/life-expectancy/)
+* By 2025, we hope to see Singapore as the country with the **highest life expectancy of 88 years!**
 
 # 🚀 Models used
 1. Multi-variate Linear Regression (SKLearn)
