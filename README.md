@@ -70,6 +70,21 @@ From our 3 models, Random Forest regression has the lowest MSE of 3.30.
 | Random Forest Regression with Cross Validation  | 3.30  |
 | Multi-Variate Regression with TensorFlow | 6.45 |
 
+Random Forest Regression maybe more effective due to the <b>size of the dataset</b>. For Deep Networks, <b>a large dataset</b> would be make the model <b>more accurate</b>. However, this dataset only has 2578 rows of data, further split into a 80-20 train-test split. Hence Random Forest may have performed better than the Deep Learning Model due to this reason.
+
+Furthermore, the Deep Learning Model used a <b>non-linear regression model</b>, and it performed better than the <b>linear regression model</b> from SKLearn, suggesting that the relation between X variables and Life Expectancy are <b>not linear</b> to begin with.
+
+From the Random Forest Regression, we identified the most important factors that the decision tree used to sift the information. From the tree, we identified that Adult Mortality, Income Composition of Resources and Schooling were the most important factors.
+
+With the 3 factors, we made comparisons with the countries with the highest life expectancies as shown below. .The blue line represents Singapore's statistics of the 3 variables over the years, while the red line represents the average of each variable for these top countries. 
+
+From Schooling, we can see that Singapore is very much under average of what the top countries had.
+
+We inputted these variables and found that just by slightly increasing schooling, income composition of resources and decreasing adult mortality, there is improvement in life expectancy with schooling being the most significant.
+
+Hence some of our recommendations for singapore are to invest more funds to subsidize higher education to increase schooling and provide better incentives for individuals to lead healthier lifestyle. 
+
+
 # 📚 New Content Learnt
 * Deep Learning using TensorFlow and Keras library
 * Random Forest Regression
