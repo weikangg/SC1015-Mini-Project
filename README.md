@@ -53,6 +53,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Used Adam’s stochastic gradient descent as the optimizer, and MSE for our loss function.
 - Implemented an early stopping function to ensure that our model do not overfit with a patience of 2. 
 - Used 512 epochs for our model so that runtime will not be too long.
+- Obtained a MSE Score of 6.45
 </code></pre>
 
 # 💡 Conclusion 
