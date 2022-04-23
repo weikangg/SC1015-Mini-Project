@@ -61,7 +61,7 @@ This is because the rate at which Singapore's Life Expectancy is increasing in t
 - Used 512 epochs for our model so that runtime will not be too long.
 </code></pre>
 
-# 💡 Conclusion
+# 💡 Conclusion & Recommendations
 
 
 # 📚 New Content Learnt
