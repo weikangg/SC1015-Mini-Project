@@ -69,6 +69,15 @@ This is because the rate at which Singapore's Life Expectancy is increasing in t
 - Used 512 epochs for our model so that runtime will not be too long.
 </code></pre>
 
+# 💡 Conclusion
+
+
+# 📚 New Content Learnt
+* Deep Learning using TensorFlow and Keras library
+* Random Forest Regression
+* Various ways to prevent the issue of overfitting (Cross Validation and EarlyStopping in Keras Callbacks)
+* Feature Importance using Random Forest
+* Git and Github Usage
 
 # References
 * [Kaggle's Life Expectancy Dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) <br>
