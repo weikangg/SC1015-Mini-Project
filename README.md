@@ -64,7 +64,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # 💡 Conclusion & Recommendations
 From our 3 models, Random Forest regression has the lowest MSE of 3.30.
-| Model  | Minimum MSE(2 d.p) |
+| Model  | Minimum MSE (2 d.p) |
 | ------------- | ------------- |
 | SKLearn Multi-Variate Regression with Cross Validation  | 12.63 |
 | Random Forest Regression with Cross Validation  | 3.30  |
