@@ -78,9 +78,13 @@ From the Random Forest Regression, we identified the most important factors that
 
 With the 3 factors, we made comparisons with the countries with the highest life expectancies as shown below. .The blue line represents Singapore's statistics of the 3 variables over the years, while the red line represents the average of each variable for these top countries. 
 
+![Screenshot 2022-04-23 180322](https://user-images.githubusercontent.com/104251224/164889935-7f64cd8e-00f3-44b8-801f-d608872d499b.png)
+
 From Schooling, we can see that Singapore is very much under average of what the top countries had.
 
 We inputted these variables and found that just by slightly increasing schooling, income composition of resources and decreasing adult mortality, there is improvement in life expectancy with schooling being the most significant.
+
+![image](https://user-images.githubusercontent.com/104251224/164889979-2d861c1b-99e1-4cd6-9dc0-41321e1ecb93.png)
 
 Hence some of our recommendations for singapore are to invest more funds to subsidize higher education to increase schooling and provide better incentives for individuals to lead healthier lifestyle. 
 
