@@ -53,15 +53,7 @@ This is because the rate at which Singapore's Life Expectancy is increasing in t
 - Thus, we again made use of 10-Fold Cross Validaton and obtained a final MSE score of 3.30.
 </code></pre>
 
-**5. SKLearn Random Forest Regression** <br>
-<pre><code>- Again, we ran a train-test split of 80-20
-- Made use of GridSearch to determine the best number of estimators from 1 to 101. 
-- Obtained best number of estimators as 101.
-- Obtained an initial MSE score of 2.85 which seemed too low and suggested the presence of overfitting.
-- Thus, we again made use of 10-Fold Cross Validaton and obtained a final MSE score of 3.30.
-</code></pre>
-
-**6. Deep Learning Regression using TensorFlow** <br>
+**5. Deep Learning Regression using TensorFlow** <br>
 <pre><code>- To prepare the data, we had to remove all spaces and replace them with dashes.
 - Ran a train-test-split of 80 to 20 and built the model by stacking layers using rectified linear unit as the activation.
 - Used Adam’s stochastic gradient descent as the optimizer, and MSE for our loss function.
