@@ -68,7 +68,7 @@ Random Forest Regression may have been more effective due to the <b>size of the 
 
 Furthermore, the Deep Learning Model used a <b>non-linear regression model</b>, and it performed better than the <b>linear regression model</b> from SKLearn, suggesting that the relation between predictor variables and Life Expectancy were <b>not linear</b> to begin with.
 
-From the Random Forest Regression, we identified that Adult Mortality, Income Composition of Resources and Schooling were the most important factors.
+From the Random Forest Tree, we identified that Adult Mortality, Income Composition of Resources and Schooling were the most important factors.
 
 With the 3 factors, we made comparisons with the countries with the highest life expectancies as shown below. The blue line represents Singapore's statistics of the 3 variables over the years, while the red line represents the average of each variable for these top countries. 
 
